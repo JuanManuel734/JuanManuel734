@@ -7,6 +7,8 @@ tengo 19 años y entre a la carrera de Ingenieria en sistemas hace dos años
 - html
 - Java
 - C/C++
+
+
 He usado:
 - Arduino
 
