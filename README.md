@@ -1,13 +1,14 @@
 ## perfil
 
+soy Juan Manuel del tecnolojico de Tlajomulco, estudio programacion No. control 23940416
+tengo 19 años y entre a la carrera de Ingenieria en sistemas hace dos años
+### lenguajes de progrmacion que se usar:
+- Python
+- html
+- Java
+- C/C++
+He usado:
+- Arduino
 
-### Subtítulo
-Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
-- Elemento 1
-- Elemento 2
-- Elemento 3
-Este es un ejemplo de texto que da entrada a una lista numerada:
-1. Elemento 1
-2. Elemento 2
-3. Elemento 3
-Al texto en Markdown puedes añadirle formato como **negrita** o *cursiva* de una manera muy sencilla.
+  
+desde la preparatoria he visto **programacion** con la materia de *Robotica*, ademas de que como anteriormente he usado el arduino tanto como para proyectos personales como para proyectos escolares/univesitarios.
